@@ -5,7 +5,7 @@
   "private": true,
   "dependencies": {
     "autoprefixer": "^6.6.1",
-    "codemirror": "^5.22.0",
+    "codemirror": "^5.62.3",
     "exerslide": "~1.1.0",
     "exerslide-plugin-bulletlist-layout": "^1.1.0",
     "exerslide-plugin-center-layout": "^1.1.0",
